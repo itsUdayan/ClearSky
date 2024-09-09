@@ -1,3 +1,4 @@
+![Screenshot 2024-09-09 151351](https://github.com/user-attachments/assets/21a2dd5d-0b2f-4531-8ab3-586c1d01b402)
 # ClearSky
 
 A weather web application built using React that allows users to search cities using the `react-async-paginate` package and fetch current and forecasted weather data from the OpenWeatherMap API.
